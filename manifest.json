@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Sentinel Browser Guard - Demo",
+  "version": "0.2.0",
+  "description": "Graduation project starter: demo login, Hello World and local file selection. No security scanning yet.",
+  "action": {
+    "default_title": "Sentinel Demo",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
